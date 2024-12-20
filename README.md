@@ -1,6 +1,6 @@
 # Eye Blink Detection and Alert System
 
-This project detects when a person's eyes are closed for a certain period (5 seconds) and plays an alarm sound with a text message ("، اصحي!"). It uses a webcam to capture video frames and analyze eye aspect ratio (EAR) to determine eye closure.
+This project detects when a person's eyes are closed for a certain period (5 seconds) and plays an alarm sound with a text message ("، Alert!"). It uses a webcam to capture video frames and analyze eye aspect ratio (EAR) to determine eye closure.
 
 ## Features
 - Detects eye closure using the Eye Aspect Ratio (EAR) method.
