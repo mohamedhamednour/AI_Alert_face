@@ -1,7 +1,7 @@
 import cv2
 import dlib
-import time
 import pygame
+import time
 from scipy.spatial import distance as dist
 
 # Function to calculate eye aspect ratio (EAR)
